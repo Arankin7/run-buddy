@@ -12,3 +12,5 @@ https://arankin7.github.io/run-buddy/
 
 ## Contribution 
 Made with ❤️ by Anthony Rankin
+
+### ©️2019 Run Buddy, Inc 
